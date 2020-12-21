@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Demos\\DatingApp\\API\\API.csproj": {}
+    "E:\\Demos\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "e:\\Demos\\DatingApp\\API\\API.csproj": {
+    "E:\\Demos\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Demos\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "E:\\Demos\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "e:\\Demos\\DatingApp\\API\\API.csproj",
+        "projectPath": "E:\\Demos\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Asmaa Ebed\\.nuget\\packages\\",
-        "outputPath": "e:\\Demos\\DatingApp\\API\\obj\\",
+        "outputPath": "E:\\Demos\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -46,6 +46,12 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
