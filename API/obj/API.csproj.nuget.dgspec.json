@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Demos\\DatingApp\\API\\API.csproj": {}
+    "E:\\Asmaa\\Demos\\DatingApp\\Api\\API.csproj": {}
   },
   "projects": {
-    "E:\\Demos\\DatingApp\\API\\API.csproj": {
+    "E:\\Asmaa\\Demos\\DatingApp\\Api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Demos\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "E:\\Asmaa\\Demos\\DatingApp\\Api\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Demos\\DatingApp\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Asmaa Ebed\\.nuget\\packages\\",
-        "outputPath": "E:\\Demos\\DatingApp\\API\\obj\\",
+        "projectPath": "E:\\Asmaa\\Demos\\DatingApp\\Api\\API.csproj",
+        "packagesPath": "C:\\Users\\Asmaa\\.nuget\\packages\\",
+        "outputPath": "E:\\Asmaa\\Demos\\DatingApp\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Asmaa Ebed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asmaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -55,7 +55,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
