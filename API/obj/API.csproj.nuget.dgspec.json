@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Asmaa\\Demos\\DatingApp\\Api\\API.csproj": {}
+    "E:\\Asmaa\\Demos\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\Asmaa\\Demos\\DatingApp\\Api\\API.csproj": {
+    "E:\\Asmaa\\Demos\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Asmaa\\Demos\\DatingApp\\Api\\API.csproj",
+        "projectUniqueName": "E:\\Asmaa\\Demos\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Asmaa\\Demos\\DatingApp\\Api\\API.csproj",
+        "projectPath": "E:\\Asmaa\\Demos\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Asmaa\\.nuget\\packages\\",
-        "outputPath": "E:\\Asmaa\\Demos\\DatingApp\\Api\\obj\\",
+        "outputPath": "E:\\Asmaa\\Demos\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
