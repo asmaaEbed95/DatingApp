@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Demos\\DatingApp\\API\\API.csproj": {}
+    "E:\\Asmaa\\Demos\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\Demos\\DatingApp\\API\\API.csproj": {
+    "E:\\Asmaa\\Demos\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Demos\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "E:\\Asmaa\\Demos\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Demos\\DatingApp\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Asmaa Ebed\\.nuget\\packages\\",
-        "outputPath": "E:\\Demos\\DatingApp\\API\\obj\\",
+        "projectPath": "E:\\Asmaa\\Demos\\DatingApp\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Asmaa\\.nuget\\packages\\",
+        "outputPath": "E:\\Asmaa\\Demos\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Asmaa Ebed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asmaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,6 +43,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.1, )"
@@ -55,7 +59,11 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[5.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.7.1, )"
             }
           },
           "imports": [
